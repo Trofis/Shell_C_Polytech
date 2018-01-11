@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1515594006 source:/home/trofis/Desktop/ProjetShellC_Mendes_Allamou/ProjetShellC_Mendes_Allamou/cmd.c
+	"cmd.h"
+
+1515528500 /home/trofis/Desktop/ProjetShellC_Mendes_Allamou/ProjetShellC_Mendes_Allamou/cmd.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1515593638 source:/home/trofis/Desktop/ProjetShellC_Mendes_Allamou/ProjetShellC_Mendes_Allamou/main.c
+	<pwd.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<unistd.h>
+	"shell_fct.h"
+
+1515417469 /home/trofis/Desktop/ProjetShellC_Mendes_Allamou/ProjetShellC_Mendes_Allamou/shell_fct.h
+	"cmd.h"
+
+1515417469 source:/home/trofis/Desktop/ProjetShellC_Mendes_Allamou/ProjetShellC_Mendes_Allamou/shell_fct.c
+	"shell_fct.h"
+
